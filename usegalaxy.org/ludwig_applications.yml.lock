@@ -9,11 +9,13 @@ tools:
   - 3f587f0e5a6d
   - 4d12452c5361
   - ad2cceec6268
+  - d5a7ca6bc640
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: ludwig_hyperopt
   owner: goeckslab
   revisions:
+  - 4a63b50a8634
   - b486ca953371
   - d76cac7bae15
   - fed9b5eaa829
@@ -24,6 +26,7 @@ tools:
   revisions:
   - 488d878c1c1f
   - a930e68bdffe
+  - b6953aa083ed
   - b81fe4d92236
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -33,12 +36,14 @@ tools:
   - 11b1f328f312
   - afc8ed4a1838
   - b0627acfa4f4
+  - cda3d431d237
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: ludwig_experiment
   owner: goeckslab
   revisions:
   - 44267c11e02b
+  - 4d0d8859a0f2
   - 5a39f429fad1
   - e1c7d044b759
   tool_panel_section_id: machine_learning
@@ -49,12 +54,14 @@ tools:
   - 56c4f4c0c6df
   - 65c50cd5aa13
   - d5d69c29d537
+  - dd663701df49
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: ludwig_evaluate
   owner: goeckslab
   revisions:
   - 7cb9e77d9909
+  - b58d8857082c
   - e55790a3e8a7
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
@@ -64,5 +71,6 @@ tools:
   - 11d3377511bb
   - 4bcd6c3a025e
   - bf21ab331fe6
+  - ec4b9244f930
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning

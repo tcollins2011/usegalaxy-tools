@@ -43,6 +43,7 @@ tools:
   owner: iuc
   revisions:
   - 1b851f87fbe0
+  - 30f6985f0ac7
   - 38b6d12edc68
   - 5dbff3a5845a
   - 6f66ae7c5f7a
@@ -99,6 +100,7 @@ tools:
   - 60f307965815
   - 62c9df8382c2
   - 64be1ac21109
+  - 8b8a3f793f0f
   - e8ac2b53f262
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -164,6 +166,7 @@ tools:
   - b9e04854e2bb
   - c772497b2c32
   - d5659efd66aa
+  - de21b616f03a
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: cummerbund
@@ -178,6 +181,7 @@ tools:
   revisions:
   - 4418229c501e
   - 67b0b160903a
+  - 8f6836089479
   - 916cb26bd9d3
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -187,6 +191,7 @@ tools:
   - 0f710191a66d
   - 3c5e024a18cf
   - 3c97c841a443
+  - a3e78550e42e
   - f99dd58de04f
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -221,6 +226,7 @@ tools:
 - name: deg_annotate
   owner: iuc
   revisions:
+  - e81fbbea6e8f
   - e98d4ab5b5bc
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
