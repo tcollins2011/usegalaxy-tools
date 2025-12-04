@@ -98,3 +98,5 @@ tools:
   owner: iuc
 - name: fasta_regex_finder
   owner: mbernt
+- name: seqkit_translate
+  owner: iuc
