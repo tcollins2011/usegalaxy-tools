@@ -74,6 +74,7 @@ tools:
   owner: mvdbeek
   revisions:
   - 3284b72eef56
+  - 8061668d0868
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: text_processing
@@ -82,6 +83,7 @@ tools:
   - 74a8bef53a00
   - 86755160afbf
   - 9ff72e942410
+  - ab83aa685821
   - c41d78ae5fee
   - d698c222f354
   - ddf54b12c295
