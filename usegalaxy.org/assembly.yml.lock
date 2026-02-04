@@ -27,6 +27,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 1b1cf0c96501
   - 3061c8b029e5
   - 59db8ea8c845
   - 675488238c96
@@ -288,6 +289,7 @@ tools:
   - 29151e779524
   - 76d4cbefff85
   - a315c25dc813
+  - bded6226d503
   - e9bd16ba5ebd
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -317,6 +319,7 @@ tools:
   owner: iuc
   revisions:
   - 01210c4e9144
+  - 0bace381c9fd
   - 3169a38c2656
   - 460fad600dce
   - b2f674562a18
@@ -357,6 +360,7 @@ tools:
   - 511e5e3cd55e
   - 79b48f02db49
   - 8fef980d48b5
+  - 9c942221e135
   - c6cec5ab35c1
   - dfb8a4497339
   tool_panel_section_id: assembly
@@ -385,6 +389,7 @@ tools:
   owner: bgruening
   revisions:
   - 0393c0415171
+  - 0fe699ced54f
   - 2b8b4cacb83d
   - 3ef480892a9f
   - 3fba9c77550a
@@ -406,6 +411,7 @@ tools:
   revisions:
   - 39495e107274
   - 425e63adcc5d
+  - 6756b34312cd
   - d87433f2a54d
   - fc925f53cae7
   - ff4031bfaa22
@@ -444,6 +450,7 @@ tools:
   owner: iuc
   revisions:
   - 0bc216235d4c
+  - 3d1d241ceff2
   - 41faa653d86c
   - 52c601d961b6
   - 5412142130ad
@@ -465,6 +472,7 @@ tools:
   - 729197476fc1
   - 963d674e438d
   - 987ed7d8e152
+  - a5876cca7b05
   - b0a1f128fa15
   - bfb00f8fec97
   - d3a7b17714c1
@@ -537,6 +545,7 @@ tools:
   owner: iuc
   revisions:
   - bb6774c6aeaf
+  - e893b7452150
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_filter_kmers
@@ -549,12 +558,14 @@ tools:
   owner: iuc
   revisions:
   - c4758f3bf36e
+  - cc8029eca6e9
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_histogram_kmers
   owner: iuc
   revisions:
   - 9a0227fa7521
+  - fa86bf923473
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: meryl_print

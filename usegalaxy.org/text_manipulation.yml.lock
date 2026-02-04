@@ -46,6 +46,7 @@ tools:
   revisions:
   - 06061aa49527
   - 3284b72eef56
+  - 8061668d0868
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
 - name: replace_column_by_key_value_file
@@ -66,6 +67,7 @@ tools:
   - 60edf2f8c28f
   - 86755160afbf
   - 9ff72e942410
+  - ab83aa685821
   - c41d78ae5fee
   - d698c222f354
   - ddf54b12c295
@@ -214,5 +216,11 @@ tools:
   revisions:
   - 5b1b635232ed
   - 5b2cc63d7a21
+  tool_panel_section_id: text_manipulation
+  tool_panel_section_label: Text Manipulation
+- name: unique
+  owner: bgruening
+  revisions:
+  - 7ce75adb93be
   tool_panel_section_id: text_manipulation
   tool_panel_section_label: Text Manipulation
