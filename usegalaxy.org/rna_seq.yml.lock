@@ -27,6 +27,7 @@ tools:
   - ae2aad0a6d50
   - df0c8d0a5992
   - f2843df56434
+  - fd9902d118e5
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: hisat2
@@ -35,6 +36,7 @@ tools:
   - 0c16cad5e03b
   - 26371a1df031
   - 6c19daec423d
+  - b12d81af0291
   - f4af63aaf57a
   - fbf98f24097b
   tool_panel_section_id: rna_seq
@@ -84,6 +86,7 @@ tools:
   owner: bgruening
   revisions:
   - 15cd64d7c58b
+  - 30d90b851d3c
   - 49121db48873
   - 7fdb9d1591e2
   - cc05793bb896
@@ -102,6 +105,7 @@ tools:
   - 62c9df8382c2
   - 64be1ac21109
   - 8b8a3f793f0f
+  - 9553180705b7
   - e8ac2b53f262
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
@@ -143,6 +147,7 @@ tools:
   revisions:
   - 0696db066a5b
   - 6a3a025714d3
+  - 6c363db8c702
   - 71bacea10eee
   - 8fe98f7094de
   - 9a882d108833
@@ -543,6 +548,7 @@ tools:
   revisions:
   - 298d81e5e138
   - b3f292d9f35d
+  - d3377a16d881
   tool_panel_section_id: rna_seq
   tool_panel_section_label: RNA-seq
 - name: brew3r_r
