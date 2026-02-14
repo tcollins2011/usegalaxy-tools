@@ -7,17 +7,20 @@ tools:
   owner: bgruening
   revisions:
   - 09bbf4f2d180
+  - 9bb86931b7b1
   tool_panel_section_id: image_manipulation
   tool_panel_section_label: Image Manipulation
 - name: imagemagick_image_montage
   owner: bgruening
   revisions:
   - 506a90ab5581
+  - fc43cdc81408
   tool_panel_section_id: image_manipulation
   tool_panel_section_label: Image Manipulation
 - name: imagemagick_image_compare
   owner: bgruening
   revisions:
+  - 12eee3d3877e
   - 5c7e14cbff16
   tool_panel_section_id: image_manipulation
   tool_panel_section_label: Image Manipulation
