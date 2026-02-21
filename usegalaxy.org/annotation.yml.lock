@@ -69,6 +69,7 @@ tools:
   - 4e70d88adf2f
   - 602fb8e63aa7
   - 94170eee0ad8
+  - c5a90fa4b8dd
   - cf13a1e03e5b
   - e4bd1e99bacf
   - e5c372c91e46
@@ -206,6 +207,7 @@ tools:
 - name: ncbi_egapx
   owner: richard-burhans
   revisions:
+  - 0e07bc110728
   - 4f85da43b40c
   - b095c69eab5b
   - b0f07e3d6f07
@@ -384,6 +386,7 @@ tools:
   owner: iuc
   revisions:
   - 53b22b7dff19
+  - 945b31d82638
   - c0a0e79d7196
   - c5f2ce99da69
   - e7a2086a0f03
@@ -400,6 +403,7 @@ tools:
   - 54acd5139cab
   - 640c0b8cc8bf
   - 948903a8555d
+  - d0632d8bac6a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: cooc_mutbamscan
@@ -496,6 +500,7 @@ tools:
   owner: iuc
   revisions:
   - 033755194fe9
+  - 59c8717f6925
   - 73b018c57e96
   - af3c1dc1d141
   - b815ec682418
@@ -536,6 +541,7 @@ tools:
   - 7109a27a11db
   - 8f20a5b9b282
   - cfec9601b25d
+  - fc7334661489
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: isescan
@@ -548,6 +554,7 @@ tools:
 - name: plasmidfinder
   owner: iuc
   revisions:
+  - 507d59b036c5
   - 7075b7a5441b
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -560,6 +567,7 @@ tools:
 - name: integron_finder
   owner: iuc
   revisions:
+  - 5429646e486d
   - bfd290fe1588
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
@@ -587,6 +595,7 @@ tools:
   owner: genouest
   revisions:
   - c2fc4ac35199
+  - cef77c1fe708
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: omark
@@ -608,5 +617,6 @@ tools:
   revisions:
   - 59d308975e63
   - 6d5c8a6ceea0
+  - eaa563bd535a
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
