@@ -126,6 +126,7 @@ tools:
   - b6abccb1f25b
   - ca0d8cf80567
   - ca337cce3888
+  - ef10c1e741c3
   - fe3e8506112c
   tool_panel_section_id: virology
   tool_panel_section_label: Virology
@@ -145,6 +146,7 @@ tools:
 - name: snipit
   owner: iuc
   revisions:
+  - 290071465e6e
   - 877e80114d25
   - 92b9fd5f1f9f
   tool_panel_section_id: virology
