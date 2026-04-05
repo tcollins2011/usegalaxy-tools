@@ -240,3 +240,5 @@ tools:
   owner: iuc
 - name: rgi
   owner: card
+- name: kegg_pathways_completeness
+  owner: iuc
