@@ -6,6 +6,7 @@ tools:
 - name: blobtoolkit
   owner: bgruening
   revisions:
+  - 1eb9b32f7096
   - '392811378515'
   - 53dd00a4ab68
   - 54a68f38cf3f
@@ -367,6 +368,7 @@ tools:
   - 79b48f02db49
   - 8fef980d48b5
   - 9c942221e135
+  - bd07b0d0f568
   - c6cec5ab35c1
   - dfb8a4497339
   tool_panel_section_id: assembly
