@@ -184,6 +184,7 @@ tools:
 - name: dada2_learnerrors
   owner: iuc
   revisions:
+  - 68129ce1c59b
   - a14a18a47c36
   - dd6572434618
   tool_panel_section_id: metagenomic_analysis
