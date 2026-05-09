@@ -56,6 +56,7 @@ tools:
   - 770bceda7785
   - 8b18f42bda13
   - a9329b77db78
+  - c80190b3ff02
   - e607b61a68ad
   tool_panel_section_id: bbtools
   tool_panel_section_label: BBTools
@@ -81,6 +82,7 @@ tools:
   - 51947de90615
   - 654c9da47f74
   - 7ad0f4bfa923
+  - 8deeb4c5448b
   - cbc75076778f
   - ce13b4678f18
   - e4fb34b79770
