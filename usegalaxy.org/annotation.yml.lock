@@ -210,6 +210,7 @@ tools:
   - 099a77735731
   - 0e07bc110728
   - 4f85da43b40c
+  - 8994fea8fbde
   - b095c69eab5b
   - b0f07e3d6f07
   - d129c3d0e920
@@ -588,6 +589,7 @@ tools:
 - name: agat
   owner: bgruening
   revisions:
+  - 6d8be3337e2a
   - d6ede73082da
   - e7449b2c14bf
   tool_panel_section_id: annotation
@@ -638,6 +640,7 @@ tools:
   owner: iuc
   revisions:
   - 876d26806584
+  - bd5630d401cd
   tool_panel_section_id: annotation
   tool_panel_section_label: Annotation
 - name: braker3

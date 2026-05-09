@@ -43,6 +43,7 @@ tools:
 - name: snpsift
   owner: iuc
   revisions:
+  - 0abc5513f795
   - 2b3e65a4252f
   - 2e497a770bca
   - 5fab4f81391d
