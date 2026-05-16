@@ -699,6 +699,7 @@ tools:
   owner: iuc
   revisions:
   - af8bdeb89691
+  - b9e7b804ec67
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: seurat_data
@@ -716,6 +717,7 @@ tools:
 - name: seurat_plot
   owner: iuc
   revisions:
+  - 6154937135c7
   - fee4b4eb0ef5
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell

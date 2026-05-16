@@ -15,6 +15,7 @@ tools:
   - a48e750cfd25
   - a5404f55ee6a
   - a92f200d296e
+  - b905deb2f1b4
   - de753cf07008
   - ed2fefc8d892
   tool_panel_section_id: machine_learning
@@ -23,6 +24,7 @@ tools:
   owner: goeckslab
   revisions:
   - 2c6624cae3c5
+  - 328ff3a13078
   - 8729f69e9207
   - 94cd9ac4a9b1
   - bbf30253c99f
@@ -98,6 +100,7 @@ tools:
 - name: keras_model_config
   owner: bgruening
   revisions:
+  - 00d1889e9ecc
   - 0c933465d70e
   - 2a853a2d2e72
   - 2b8d85927742
@@ -247,6 +250,7 @@ tools:
   - d37a7f17e35d
   - e5a5ad882f1f
   - f0d2e8a3c575
+  - f484f41ea0dd
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_build_pipeline
@@ -453,6 +457,7 @@ tools:
   - ce2fd1edbc6e
   - e10ffa9e0b90
   - e8639f65c883
+  - e8e5736b632d
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: sklearn_fitted_model_eval
@@ -520,6 +525,7 @@ tools:
   - c17f3eacdb14
   - caf164dd0e18
   - f06ad033c114
+  - fbf485fc2d30
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_train_and_eval
@@ -540,6 +546,7 @@ tools:
   revisions:
   - 42b513bed40b
   - 4efac966af2a
+  - 602b5fb7ef09
   - 6d1a9fae57eb
   - 92e09b827300
   - 9f9cf31e3111

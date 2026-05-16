@@ -6,6 +6,7 @@ tools:
 - name: ludwig_train
   owner: goeckslab
   revisions:
+  - 26fed0deef67
   - 3f587f0e5a6d
   - 4d12452c5361
   - 650639a4a75f
