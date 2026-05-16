@@ -160,6 +160,7 @@ tools:
   owner: iuc
   revisions:
   - 20ab37575227
+  - 23d04eabbac5
   - 3171f7f52576
   - 3f94a2e3d513
   - 456d8ebb6a28
@@ -186,6 +187,7 @@ tools:
   - 371e4e21d5de
   - 544ea81a6914
   - c64bee2dc319
+  - f885abcfe3a0
   tool_panel_section_id: mapping
   tool_panel_section_label: Mapping
 - name: segalign
