@@ -27,6 +27,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 1a53edc4b438
   tool_panel_section_id: machine_learning
