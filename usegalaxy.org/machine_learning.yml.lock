@@ -149,6 +149,7 @@ tools:
   - c51571d0a0b1
   - e4af79bffd57
   - f7ecdde4b201
+  - fe0e82a7d0ee
   tool_panel_section_id: machine_learning
   tool_panel_section_label: Machine Learning
 - name: keras_batch_models
@@ -320,6 +321,7 @@ tools:
   - 1682b64aad9e
   - 226524df8c6c
   - 2a1afd3481ce
+  - 3ff43fbb7ccf
   - 5bd0866dbc7a
   - 7366e5108e9f
   - 7614281473da
@@ -418,6 +420,7 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   - f2234165a453
   tool_panel_section_id: machine_learning
@@ -587,6 +590,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 16c442ecd6bf
   - 1b7ab45c7858
   - 27f8bd20a936
   - 3045d322d4ac
