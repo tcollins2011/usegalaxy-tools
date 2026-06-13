@@ -521,6 +521,7 @@ tools:
   owner: imgteam
   revisions:
   - bd2aadf0f589
+  - c9e87324073c
   tool_panel_section_id: imaging
   tool_panel_section_label: Imaging
 - name: imagej2_make_binary
