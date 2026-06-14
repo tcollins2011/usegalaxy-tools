@@ -153,6 +153,7 @@ tools:
   revisions:
   - 2b0d3e2f402a
   - 41f34e925bd5
+  - 53d889b0a2c9
   - c7ddb719554d
   - f3eb2291da05
   tool_panel_section_id: single_cell
@@ -161,6 +162,7 @@ tools:
   owner: iuc
   revisions:
   - 43c146e25a43
+  - 4d69676e6af2
   - 8b917923f7d4
   - b83fbc90161e
   - c891d8b33ede
