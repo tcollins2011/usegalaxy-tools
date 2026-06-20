@@ -201,6 +201,7 @@ tools:
 - name: modify_loom
   owner: iuc
   revisions:
+  - 0ee9395e1eb2
   - 0f1aaff9b22d
   - 4b0adaa31c95
   - 4c9fa3c63d9e
@@ -270,6 +271,7 @@ tools:
   - 2bfd55b87af3
   - 44b935f2271b
   - 72979cac22b2
+  - 8efd06e9899d
   - e93b008c637a
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
