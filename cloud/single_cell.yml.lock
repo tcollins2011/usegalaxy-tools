@@ -191,6 +191,7 @@ tools:
   - a6821f856a1e
   - c8434a623268
   - df8e4e54d367
+  - e5cd122b7555
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
 - name: alevin
