@@ -36,6 +36,7 @@ tools:
   owner: iuc
   revisions:
   - 4d8bc5dd9e95
+  - 7a5598f973c9
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: semibin
@@ -90,6 +91,7 @@ tools:
   owner: iuc
   revisions:
   - 8b1b09fcd8b7
+  - d87b60b2ed78
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: fasta_to_contig2bin
@@ -121,6 +123,7 @@ tools:
   - 53a019316350
   - 7209f32a9e9d
   - 97b1540b4830
+  - e91d979deb87
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
 - name: checkm_lineage_wf
@@ -178,6 +181,7 @@ tools:
   owner: iuc
   revisions:
   - 4e469b758915
+  - 51971db051ba
   - a204f3983d22
   - e7c2674e01fe
   tool_panel_section_id: metagenomic_analysis
@@ -186,6 +190,7 @@ tools:
   owner: iuc
   revisions:
   - 00e0347751b1
+  - 6be249bfd55b
   - 81fc1ff02788
   - e8768ddeba32
   tool_panel_section_id: metagenomic_analysis
@@ -193,6 +198,7 @@ tools:
 - name: dada2_learnerrors
   owner: iuc
   revisions:
+  - 4bba91a89457
   - 68129ce1c59b
   - a14a18a47c36
   - dd6572434618
@@ -211,6 +217,7 @@ tools:
   revisions:
   - 273b8a00c8a2
   - 646c58820267
+  - a35c40af067f
   - c920e1400f98
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -219,6 +226,7 @@ tools:
   revisions:
   - 0b1ce4edabc7
   - 88677f452aea
+  - aab8af79110e
   - ebd632e95aae
   tool_panel_section_id: metagenomic_analysis
   tool_panel_section_label: Metagenomic Analysis
@@ -234,6 +242,7 @@ tools:
   owner: iuc
   revisions:
   - 213a3fda0b91
+  - 256e7a119a95
   - 390bc2645138
   - 9180d536e20d
   tool_panel_section_id: metagenomic_analysis
@@ -241,6 +250,7 @@ tools:
 - name: dada2_assigntaxonomyaddspecies
   owner: iuc
   revisions:
+  - 60cd35f37c0a
   - 705d26fbea02
   - 9f306361a58e
   - ce4bfce70e64
