@@ -31,6 +31,7 @@ tools:
 - name: sklearn_ensemble
   owner: bgruening
   revisions:
+  - 00f01f713c3c
   - 060ca94ac049
   - 0b98933cf0f7
   - 1a53edc4b438
@@ -60,6 +61,7 @@ tools:
   revisions:
   - 1a9c42974a5a
   - 2c6624cae3c5
+  - 5a2a6da441ae
   - 64872c48a21f
   - 85e6f4b2ad18
   - 8729f69e9207
@@ -74,6 +76,7 @@ tools:
   owner: goeckslab
   revisions:
   - 36c5fcc49286
+  - 779d91d78ecf
   - b7ed0e483e4d
   - d13ba033cb84
   - ec4b9244f930
