@@ -90,6 +90,7 @@ tools:
 - name: metaspades
   owner: nml
   revisions:
+  - 04d81e5f25e9
   - 05c394313b1c
   - 697c9156dafe
   - 9638ba70882c
@@ -131,6 +132,7 @@ tools:
   - 675ee1aa5952
   - 9e58ff014088
   - a8a278849c18
+  - aa1ac2f7a688
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -146,6 +148,7 @@ tools:
   - d5fb354f745d
   - dc5d1a54054b
   - de1260f8a300
+  - f4fc734dd9b0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaplasmidspades
@@ -155,6 +158,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - ae96f644b722
   - b8002c3f7141
   - c5c4fa59be65
   - c8097e741b13
@@ -165,6 +169,7 @@ tools:
 - name: spades_coronaspades
   owner: iuc
   revisions:
+  - 045c8498d2dd
   - 152ff7d1817a
   - 2cf8a2028ddc
   - 34305b013402
@@ -186,6 +191,7 @@ tools:
   - 7490b213baa9
   - 904bf932cf78
   - a5d68876c44e
+  - afac6d6bd02b
   - c33a476f4001
   - d89ced9439f3
   tool_panel_section_id: assembly
@@ -234,6 +240,7 @@ tools:
 - name: spades
   owner: nml
   revisions:
+  - 1f04936b96f3
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -248,6 +255,7 @@ tools:
   revisions:
   - 067592b6b312
   - 21e491ad532a
+  - 86ec2f06de3c
   - 94fe43e75ddc
   - b2860df42e16
   - b9e31c5c01c7
@@ -452,6 +460,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 2853471f753d
   - 3fc33af5d9e2
   - 99ddbf037d98
   - bfab6f5b449d
@@ -673,6 +682,7 @@ tools:
 - name: fastga
   owner: iuc
   revisions:
+  - 27d750de596d
   - 27f0ed5cbd33
   - 8f821f9b8567
   tool_panel_section_id: assembly
