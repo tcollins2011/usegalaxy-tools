@@ -131,6 +131,7 @@ tools:
   - 675ee1aa5952
   - 9e58ff014088
   - a8a278849c18
+  - aa1ac2f7a688
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -197,6 +198,7 @@ tools:
   - 340bc17f49cf
   - 388dbecbf03b
   - 5be72b7648fa
+  - 6fb81bb0fe3e
   - 75405f5e2cc5
   - 7bb235ff0746
   - 85fb02c43042

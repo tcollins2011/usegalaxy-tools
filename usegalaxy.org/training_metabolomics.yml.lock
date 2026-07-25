@@ -5,6 +5,7 @@ tools:
 - name: msconvert
   owner: galaxyp
   revisions:
+  - 252d185267fc
   - 28ffaaa5739f
   - 331a50e8fd2f
   - 4493fdb346f0
@@ -21,6 +22,7 @@ tools:
   - 12def6edac2f
   - 35b6fe4d481c
   - 6de175c1f6ef
+  - 788a4bac4a11
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: xcms_fillpeaks
