@@ -187,6 +187,7 @@ tools:
 - name: raceid_inspecttrajectory
   owner: iuc
   revisions:
+  - 42a08854eb66
   - 6e90c8adf84f
   - a6821f856a1e
   - c8434a623268
