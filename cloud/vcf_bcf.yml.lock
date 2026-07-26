@@ -63,6 +63,7 @@ tools:
   owner: iuc
   revisions:
   - 01d6b7d6365e
+  - 2b7e7aa56527
   - 61dfbc82ffc8
   - ccb83bf54de0
   tool_panel_section_id: vcf_bcf
@@ -73,12 +74,14 @@ tools:
   - 394dbf428c7b
   - 8abfcd1a6949
   - a730269af659
+  - f319f4089d5e
   tool_panel_section_id: vcf_bcf
   tool_panel_section_label: VCF/BCF
 - name: bcftools_plugin_counts
   owner: iuc
   revisions:
   - 4813f99d81b7
+  - 64e76575fb9a
   - ade0d3c3ec1c
   - dadbd61dc4cf
   tool_panel_section_id: vcf_bcf
