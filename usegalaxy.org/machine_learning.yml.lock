@@ -34,6 +34,7 @@ tools:
   - bbf30253c99f
   - c460abae83eb
   - c5150cceab47
+  - c99a4e91b900
   - ccbcc012d78d
   - d17e3a1b8659
   - d5c582cf74bc
@@ -418,6 +419,7 @@ tools:
   - 826c3e68e7a9
   - a5c2ce4ea328
   - add3c3a7c2b4
+  - dde13d557dc4
   - eb9da067ab26
   - f2234165a453
   tool_panel_section_id: machine_learning
@@ -587,6 +589,7 @@ tools:
 - name: sklearn_lightgbm
   owner: bgruening
   revisions:
+  - 16c442ecd6bf
   - 1b7ab45c7858
   - 27f8bd20a936
   - 3045d322d4ac
