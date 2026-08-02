@@ -34,6 +34,7 @@ tools:
   owner: devteam
   revisions:
   - 2899e5b8c52a
+  - 2b901d1b7aef
   - 30388d878f81
   - 85e38b31e8b3
   - df41198e970c
@@ -256,6 +257,7 @@ tools:
   - a4a10c7924d1
   - adc4ed59d82b
   - b8beef827165
+  - c4325d32b1a2
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_rmdup
