@@ -116,6 +116,7 @@ tools:
   owner: lecorguille
   revisions:
   - 75a1b3f7bacc
+  - abc7c44ae8f7
   tool_panel_section_id: metabolomics
   tool_panel_section_label: Metabolomics
 - name: metams_rungc
