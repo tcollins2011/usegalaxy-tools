@@ -278,6 +278,7 @@ tools:
   - 2bfd55b87af3
   - 44b935f2271b
   - 72979cac22b2
+  - 8efd06e9899d
   - e93b008c637a
   tool_panel_section_id: single_cell
   tool_panel_section_label: Single-cell
