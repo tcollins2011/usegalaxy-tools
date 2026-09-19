@@ -10,6 +10,7 @@ tools:
   - '392811378515'
   - 53dd00a4ab68
   - 54a68f38cf3f
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -280,6 +281,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -374,6 +376,7 @@ tools:
   - 02831bf9e95f
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 7087d9a23185
@@ -396,6 +399,7 @@ tools:
   - 7c9417381ad5
   - 9ec9c22767c8
   - c4fb391275a0
+  - cfc412b91a57
   - ff02cf8f66f0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -408,6 +412,7 @@ tools:
   - 75b4a2298714
   - 8e422c873d02
   - 936a1edffce8
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -490,6 +495,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -549,6 +555,7 @@ tools:
   - 6cbca5661205
   - 7f71687c8146
   - 81fc1418fbfb
+  - 88926bef8e75
   - ade829d2ae3a
   - c20a07c9237b
   - cfeb5205eacc
@@ -694,11 +701,13 @@ tools:
   owner: iuc
   revisions:
   - 6240e5015f93
+  - ee4041c922c8
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: lexicmap
   owner: iuc
   revisions:
   - bcb6caec41eb
+  - d371ff7667e0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
