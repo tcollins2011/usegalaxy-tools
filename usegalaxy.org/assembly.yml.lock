@@ -10,6 +10,7 @@ tools:
   - '392811378515'
   - 53dd00a4ab68
   - 54a68f38cf3f
+  - 81bc4c8bcf10
   - 8c2167481e72
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -92,6 +93,7 @@ tools:
   revisions:
   - 04d81e5f25e9
   - 05c394313b1c
+  - 434f2a6c3ade
   - 697c9156dafe
   - 9638ba70882c
   - 99ecfdafc64f
@@ -133,6 +135,7 @@ tools:
   - 9e58ff014088
   - a8a278849c18
   - aa1ac2f7a688
+  - c6ba8470ed01
   - e122f9101584
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -141,6 +144,7 @@ tools:
   revisions:
   - 48cf45a53456
   - 6357b127161e
+  - 7170a53ee406
   - a9aa4115cb68
   - b65a43f70b99
   - d159735a6a9f
@@ -158,6 +162,7 @@ tools:
   - 4a01e0d2892c
   - 6b5a5842531e
   - 7e27faaad80e
+  - 9911ca348668
   - ae96f644b722
   - b8002c3f7141
   - c5c4fa59be65
@@ -171,6 +176,7 @@ tools:
   revisions:
   - 045c8498d2dd
   - 152ff7d1817a
+  - 2c650dcc6190
   - 2cf8a2028ddc
   - 34305b013402
   - 4ae660dd1fb6
@@ -185,6 +191,7 @@ tools:
   owner: iuc
   revisions:
   - 051fd2db8a27
+  - 162a7ff870e9
   - 5e7a2a927b56
   - 604782a8a53a
   - 60b8f1668552
@@ -209,6 +216,7 @@ tools:
   - 85fb02c43042
   - 8cc856b935ee
   - b40b77418372
+  - c4e781659379
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: spades_metaviralspades
@@ -221,6 +229,7 @@ tools:
   - 7922870efcca
   - 9de69775f512
   - c4ba6aa27088
+  - dcaf2403747d
   - e060c3987513
   - ea83ac535a1f
   - ed32d95f436a
@@ -243,6 +252,7 @@ tools:
   owner: nml
   revisions:
   - 1f04936b96f3
+  - 263af8401aed
   - 33368fec3b70
   - 65d1598a9256
   - 7897763d14ec
@@ -280,6 +290,7 @@ tools:
   owner: bgruening
   revisions:
   - 045c7c3d8e59
+  - 09cf7b520734
   - 0ee0c3089254
   - 170061c052ad
   - 284a1cb82b61
@@ -374,6 +385,7 @@ tools:
   - 02831bf9e95f
   - 0346286a3b0a
   - 056f86469460
+  - 0d0e8d0691c8
   - 2b16ba799da9
   - 511e5e3cd55e
   - 7087d9a23185
@@ -396,6 +408,7 @@ tools:
   - 7c9417381ad5
   - 9ec9c22767c8
   - c4fb391275a0
+  - cfc412b91a57
   - ff02cf8f66f0
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -408,6 +421,7 @@ tools:
   - 75b4a2298714
   - 8e422c873d02
   - 936a1edffce8
+  - 9491362ac1cd
   - eca7d3a0c5f2
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -490,6 +504,7 @@ tools:
   - 608ea80cccba
   - 7a2b37ae4a50
   - 914533f3507e
+  - b507ad3fe6ce
   - c162f3c43442
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
@@ -549,6 +564,7 @@ tools:
   - 6cbca5661205
   - 7f71687c8146
   - 81fc1418fbfb
+  - 88926bef8e75
   - ade829d2ae3a
   - c20a07c9237b
   - cfeb5205eacc
@@ -694,11 +710,13 @@ tools:
   owner: iuc
   revisions:
   - 6240e5015f93
+  - 9c23008e7345
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
 - name: lexicmap
   owner: iuc
   revisions:
   - bcb6caec41eb
+  - c386984b135c
   tool_panel_section_id: assembly
   tool_panel_section_label: Assembly
