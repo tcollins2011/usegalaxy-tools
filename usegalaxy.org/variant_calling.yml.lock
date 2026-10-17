@@ -59,6 +59,7 @@ tools:
   - 3e954e7125bf
   - 85dc96ebc770
   - a5937157062f
+  - c752293b798c
   - e698621cca1f
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
@@ -116,6 +117,7 @@ tools:
   revisions:
   - 09d6e4693887
   - 2953c43180c0
+  - 3ee7d4ac76f3
   - 435b157bed6d
   - 606542a18f82
   - 791f73caa0c8
@@ -128,6 +130,7 @@ tools:
   revisions:
   - 03627f24605f
   - 074d44697036
+  - 14af3b671440
   - 31216d510164
   - 3b4b2121842f
   - 4805fe3d8fda
@@ -140,6 +143,7 @@ tools:
 - name: lofreq_filter
   owner: iuc
   revisions:
+  - 3e0e44d971d5
   - 6f9ffff040ce
   - 701d134358ad
   - 7dfca164d2e3
@@ -153,6 +157,7 @@ tools:
   revisions:
   - 2ae554b4bcca
   - 354b534eeab7
+  - 4165b712b569
   - 426d707dfc47
   - 5d6a078d30b0
   - 971e07ca4456
@@ -163,6 +168,7 @@ tools:
 - name: lofreq_viterbi
   owner: iuc
   revisions:
+  - 3330ebe7c0c7
   - 33a416e1659e
   - aa35ee7f3ab2
   - af7e416d8176
@@ -224,6 +230,7 @@ tools:
   - 2898012c5265
   - 3be27a9a7313
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   - fd2d6e035c3f
   tool_panel_section_id: variant_calling
@@ -277,6 +284,7 @@ tools:
   - 43fffeed243f
   - 93c4b04a0769
   - ceff2f6a5368
+  - dcd4681273f7
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: jasminesv
@@ -329,6 +337,7 @@ tools:
   owner: iuc
   revisions:
   - 5804f786060d
+  - 67ef1dddcad9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: arriba
@@ -337,6 +346,7 @@ tools:
   - 01ccd366690d
   - 0da0b2dc624c
   - 45c2ec061cf9
+  - 4f7fb8cc6758
   - 6535dd4a4064
   - e1ab5699a834
   tool_panel_section_id: variant_calling
@@ -346,6 +356,7 @@ tools:
   revisions:
   - 24271361028f
   - 7acb00fc980a
+  - 83b6fef5e509
   - a2c1c52a7e47
   - a9b4d7761b46
   - cf01dd6c6b1f
@@ -354,6 +365,7 @@ tools:
 - name: arriba_get_filters
   owner: iuc
   revisions:
+  - 26ad140cac5b
   - 6d1f577b3e47
   - 703a2cb3fb38
   - 7a5a2d28c539
