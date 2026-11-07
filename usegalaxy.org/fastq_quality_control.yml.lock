@@ -24,6 +24,7 @@ tools:
 - name: trimmomatic
   owner: pjbriggs
   revisions:
+  - 771554c05a0b
   - 898b67846b47
   - b9aaed85cbd1
   - d94aff5ee623
@@ -43,6 +44,7 @@ tools:
   - 5e33b465d8d5
   - 75c93c70d094
   - 862943c10425
+  - 94b6bea727ae
   - 9a913cdee30e
   - a7e081ceb76a
   - abfd8a6544d7
@@ -60,6 +62,7 @@ tools:
   revisions:
   - b1cea1b2fcd0
   - e2cf940128d5
+  - e4c69443362d
   - f0e7deab6518
   - f86c27295151
   tool_panel_section_id: fastq_quality_control
@@ -69,6 +72,7 @@ tools:
   revisions:
   - 48c943a0290a
   - 59003d0543cd
+  - 5d39ad51de11
   - cc0fd298cc17
   tool_panel_section_id: fastq_quality_control
   tool_panel_section_label: FASTQ Quality Control
@@ -77,6 +81,7 @@ tools:
   revisions:
   - 21796f46e0ba
   - 751878fa37e5
+  - 81718e0eba05
   - ad116ae3f4d9
   - b6b54ba71bd8
   tool_panel_section_id: fastq_quality_control
@@ -88,6 +93,7 @@ tools:
   - 47df89f900a4
   - 7cf5b1d072b5
   - 867ab348287d
+  - c38184e51140
   tool_panel_section_id: fastq_quality_control
   tool_panel_section_label: FASTQ Quality Control
 - name: prinseq
@@ -96,6 +102,7 @@ tools:
   - 02befcb391f5
   - 1ee282794de3
   - 654b3a274ed5
+  - dbd2e239117c
   tool_panel_section_id: fastq_quality_control
   tool_panel_section_label: FASTQ Quality Control
 - name: fastqe
@@ -112,6 +119,7 @@ tools:
 - name: fastq_info
   owner: bgruening
   revisions:
+  - 2bca15e630a4
   - 7a821cd57b43
   tool_panel_section_id: fastq_quality_control
   tool_panel_section_label: FASTQ Quality Control
