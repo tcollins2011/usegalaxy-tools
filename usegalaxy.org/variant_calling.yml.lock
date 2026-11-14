@@ -46,6 +46,7 @@ tools:
   revisions:
   - 0abc5513f795
   - 2b3e65a4252f
+  - 2d6319686ea3
   - 2e497a770bca
   - 5fab4f81391d
   tool_panel_section_id: variant_calling
@@ -59,6 +60,7 @@ tools:
   - 3e954e7125bf
   - 85dc96ebc770
   - a5937157062f
+  - ae2f044f7b1c
   - e698621cca1f
   - ef2c525bd8cd
   tool_panel_section_id: variant_calling
@@ -107,6 +109,7 @@ tools:
   - 32f2211eeec3
   - 3fe8ef358d66
   - 5bbf9eada9c2
+  - c3b0d50d1b53
   - c9a8ef2aa380
   - d220115f882b
   tool_panel_section_id: variant_calling
@@ -117,6 +120,7 @@ tools:
   - 09d6e4693887
   - 2953c43180c0
   - 435b157bed6d
+  - 4e7fc9795034
   - 606542a18f82
   - 791f73caa0c8
   - e0e2fd665102
@@ -132,6 +136,7 @@ tools:
   - 3b4b2121842f
   - 4805fe3d8fda
   - 65432c3abf6c
+  - 72d76a5adbc9
   - b11e8e9c23bf
   - dfadc322b065
   - e1461b5c52a0
@@ -140,6 +145,7 @@ tools:
 - name: lofreq_filter
   owner: iuc
   revisions:
+  - 3e0e44d971d5
   - 6f9ffff040ce
   - 701d134358ad
   - 7dfca164d2e3
@@ -151,6 +157,7 @@ tools:
 - name: lofreq_indelqual
   owner: iuc
   revisions:
+  - 07cd2a0e530d
   - 2ae554b4bcca
   - 354b534eeab7
   - 426d707dfc47
@@ -169,6 +176,7 @@ tools:
   - cdaab621d454
   - dbd9f2db9ed8
   - ecd80c7c3886
+  - facfecd498e4
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: basil
@@ -182,6 +190,7 @@ tools:
 - name: bcftools_plugin_color_chrs
   owner: iuc
   revisions:
+  - 09694f0edd75
   - 36960e552ddc
   - 51d28b4d3a04
   - 54def72f84b2
@@ -207,6 +216,7 @@ tools:
   - b40213125e88
   - c0b17fc737d4
   - eb22990a2be9
+  - f3b9269e6e70
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: exomedepth
@@ -224,6 +234,7 @@ tools:
   - 2898012c5265
   - 3be27a9a7313
   - 53ce8be43212
+  - d90f9190eb27
   - fb0bb7174530
   - fd2d6e035c3f
   tool_panel_section_id: variant_calling
@@ -260,12 +271,14 @@ tools:
   owner: iuc
   revisions:
   - 4e21e4f2bc48
+  - 90cf787c022c
   - cff5bd9c728d
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: snpsift_genesets
   owner: iuc
   revisions:
+  - 333c2f24e479
   - 60d04e5f3dcf
   - d12a810c837e
   tool_panel_section_id: variant_calling
@@ -276,6 +289,7 @@ tools:
   - 09f5c6f3088a
   - 43fffeed243f
   - 93c4b04a0769
+  - c7a721c21e01
   - ceff2f6a5368
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -315,6 +329,7 @@ tools:
   - 78df8fc2b3ab
   - 98c227b9be71
   - a40dd4fd3096
+  - c8eefc6bf631
   - d9965e143053
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
@@ -329,6 +344,7 @@ tools:
   owner: iuc
   revisions:
   - 5804f786060d
+  - 67ef1dddcad9
   tool_panel_section_id: variant_calling
   tool_panel_section_label: Variant Calling
 - name: arriba
@@ -337,6 +353,7 @@ tools:
   - 01ccd366690d
   - 0da0b2dc624c
   - 45c2ec061cf9
+  - 4f7fb8cc6758
   - 6535dd4a4064
   - e1ab5699a834
   tool_panel_section_id: variant_calling
@@ -346,6 +363,7 @@ tools:
   revisions:
   - 24271361028f
   - 7acb00fc980a
+  - 83b6fef5e509
   - a2c1c52a7e47
   - a9b4d7761b46
   - cf01dd6c6b1f
@@ -354,6 +372,7 @@ tools:
 - name: arriba_get_filters
   owner: iuc
   revisions:
+  - 26ad140cac5b
   - 6d1f577b3e47
   - 703a2cb3fb38
   - 7a5a2d28c539
