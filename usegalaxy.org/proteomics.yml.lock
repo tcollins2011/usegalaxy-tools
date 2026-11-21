@@ -157,6 +157,7 @@ tools:
   - 387754f0746e
   - 3f947afe3f71
   - 42ad5460c1d4
+  - bccd2dd41f18
   - da1531027506
   - da9ebef968bd
   - e969a182e3cb
@@ -179,17 +180,20 @@ tools:
   owner: galaxyp
   revisions:
   - c32806a80862
+  - cdf811f441dd
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: pepquery2_show_sets
   owner: galaxyp
   revisions:
+  - aebd150fd138
   - d39a43a076fc
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
 - name: pepquery2_index
   owner: galaxyp
   revisions:
+  - 88fd1654fabd
   - c56ca72c129e
   tool_panel_section_id: proteomics
   tool_panel_section_label: Proteomics
