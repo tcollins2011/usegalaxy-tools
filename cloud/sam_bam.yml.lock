@@ -14,6 +14,7 @@ tools:
   revisions:
   - 19ece8afbaab
   - 30a201c9c310
+  - 950ea24d0079
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_view
@@ -49,6 +50,7 @@ tools:
 - name: bamtools
   owner: devteam
   revisions:
+  - 49be7ffc00e2
   - 4d343c1f606b
   - 887a9bf73d1a
   - 8eb649e67987
@@ -73,6 +75,7 @@ tools:
   revisions:
   - 17b35d23731f
   - e38af83df163
+  - edec46248555
   tool_panel_section_id: sam_bam
   tool_panel_section_label: SAM/BAM
 - name: samtools_phase
